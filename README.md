@@ -40,13 +40,14 @@ Software developer with a strong foundation in web development, proficient in HT
 - Repository: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ziad-Elshrief/Stream-Vibe)
 - Live Demo: [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://stream-vibe-phi.vercel.app/)
 
-#### React Chat App
+#### MERN Chat App
 
-- Real time chat app with rooms that use Node.js and Express server.
+- Real time chat app with rooms built using MERN stack.
 - The server serves a React app as a static folder and both can communicate using socket.io.
 - The chatting is done using multiple rooms with any names and multiple users.
-- Tools used: NodeJs, Express, React, Vite, Tailwind CSS , Socket.io.
-- Repository: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ziad-Elshrief/React-Chat-App)
+- Users can create and log in to their accounts to use the app features.
+- Tools used: NodeJs, Express, React, Vite, Tailwind CSS , MongoDB, Socket.io.
+- Repository: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ziad-Elshrief/MERN-Chat-App)
 - Live Demo: [Railway](https://react-chat-app-production-a349.up.railway.app)
 
 #### MERN Goalsetter
