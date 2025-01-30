@@ -46,7 +46,7 @@ Software developer with a strong foundation in web development, proficient in HT
 - The server serves a React app as a static folder and both can communicate using socket.io.
 - The chatting is done using multiple rooms with any names and multiple users.
 - Users can create and log in to their accounts to use the app features.
-- Tools used: NodeJs, Express, React, Vite, Tailwind CSS , MongoDB, Socket.io.
+- Tools used: NodeJs, Express, React, Vite, Tailwind CSS , MongoDB, Socket.io, TypeScript.
 - Repository: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ziad-Elshrief/MERN-Chat-App)
 - Live Demo: [Railway](https://react-chat-app-production-a349.up.railway.app)
 
