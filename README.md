@@ -30,16 +30,6 @@ Software developer with a strong foundation in web development, proficient in HT
 
 # Projects:
 
-#### Stream Vibe
-
-- Multi-page react app using React router to navigate between main site info, TV shows and movies pages.
-- Real movies and TV shows data from Restful APIs.
-- Searching functionality through site search bar or using ”?q=” link for both movies and TV shows.
-- Responsive design for both mobile and desktop using Tailwind CSS.
-- Tools used: React, Vite, Tailwind CSS
-- Repository: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ziad-Elshrief/Stream-Vibe)
-- Live Demo: [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://stream-vibe-phi.vercel.app/)
-
 #### MERN Chat App
 
 - Real time chat app with rooms built using MERN stack.
@@ -50,14 +40,15 @@ Software developer with a strong foundation in web development, proficient in HT
 - Repository: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ziad-Elshrief/MERN-Chat-App)
 - Live Demo: [Railway](https://react-chat-app-production-a349.up.railway.app)
 
-#### MERN Goalsetter
+#### Stream Vibe
 
-- MERN Stack application using a Restful Api created in Express as the backend providing goals.
-- Ability to check and delete goals associated with each user with a user interface created in React.
-- Ability to register an account, login or update your profile using mongoDB and JWT auth.
-- Tools used: React, Vite, NodeJs, Express , Bootstrap, Redux, JWT, MongoDB.
-- Repository: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ziad-Elshrief/MERN-GOALSETTER)
-- Live Demo: [Railway](https://mern-goalsetter-production-b237.up.railway.app/login)
+- Multi-page react app using React router to navigate between main site info, TV shows and movies pages.
+- Real movies and TV shows data from Restful APIs.
+- Searching functionality through site search bar or using ”?q=” link for both movies and TV shows.
+- Responsive design for both mobile and desktop using Tailwind CSS.
+- Tools used: React, Vite, Tailwind CSS
+- Repository: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ziad-Elshrief/Stream-Vibe)
+- Live Demo: [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://stream-vibe-phi.vercel.app/)
 
 #### Next.js Booking App
 
